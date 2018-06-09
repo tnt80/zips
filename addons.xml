@@ -42,7 +42,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.1" provider-name="TNT">
+<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.2" provider-name="TNT">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
