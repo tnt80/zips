@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.kindertubenl" name="KinderTube NL" version="1.0" provider-name="TNT">
+<addon id="plugin.video.kindertubenl" name="KinderTube NL" version="1.1" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
