@@ -26,7 +26,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.kindertubenl" name="KinderTube NL" version="1.1" provider-name="TGR">
+<addon id="plugin.video.kindertubenl" name="KinderTube NL" version="1.2.1" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
@@ -34,15 +34,20 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Voor de beste kinderfilmpjes ga je naar www.kindertube.nl</summary>
-		<description>YouTube filmpjes voor kinderen van kindertube.nl. Special thanks to the dev. @ptom for the template addon!</description>
+		<summary lang="en_GB">Addon for the little ones</summary>
+		<summary lang="nl_NL">Addon voor de kleintjes</summary>
+		<description lang="en_GB">For the best kids videos go to www.kindertube.nl. Special thanks to dev. @ptom for the template addon!</description>
+		<description lang="nl_NL">Kodi addon met YouTube filmpjes voor kinderen van kindertube.nl. Special thanks to dev. @ptom for the template addon!</description>
 		<platform>all</platform>
-		<language>en</language>
+		<language>nl</language>
+		<website>https://github.com/tnt80/plugin.video.kindertubenl</website>
 		<email></email>
+		<source>https://github.com/tnt80/plugin.video.kindertubenl</source>
+		<news>Addon voor de site https://kindertube.nl Laatste versie 1.2</news>
 	</extension>
 </addon>
 
-<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.4.1" provider-name="TGR">
+<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.4.2" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
@@ -50,11 +55,16 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Voor de beste kinderfilmpjes ga je naar www.kids-tube.nl</summary>
-		<description>Kodi addon met YouTube filmpjes voor kinderen van kids-tube.nl. Special thanks to dev. @ptom for the template addon!</description>
+		<summary lang="en_GB">Addon for the little ones</summary>
+		<summary lang="nl_NL">Addon voor de kleintjes</summary>
+		<description lang="en_GB">For the best kids videos go to www.kids-tube.nl. Special thanks to dev. @ptom for the template addon!</description>
+		<description lang="nl_NL">Kodi addon met YouTube filmpjes voor kinderen van kids-tube.nl. Special thanks to dev. @ptom for the template addon!</description>
 		<platform>all</platform>
-		<language>en</language>
+		<language>nl</language>
+		<website>https://github.com/tnt80/plugin.video.kidstubenl</website>
 		<email></email>
+		<source>https://github.com/tnt80/plugin.video.kidstubenl</source>
+		<news>Addon voor de site https://kids-tube.nl Laatste versie 1.4.2</news>
 	</extension>
 </addon>
 
