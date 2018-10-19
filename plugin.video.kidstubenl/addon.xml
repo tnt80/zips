@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.4.2" provider-name="TGR">
+<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.4.3" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
@@ -16,6 +16,9 @@
 		<website>https://github.com/tnt80/plugin.video.kidstubenl</website>
 		<email></email>
 		<source>https://github.com/tnt80/plugin.video.kidstubenl</source>
-		<news>Addon voor de site https://kids-tube.nl Laatste versie 1.4.2</news>
+		<news>
+[COLOR blue]repo url for this addon[/COLOR]
+https://tnt80.github.io/repo
+    </news>
 	</extension>
 </addon>
