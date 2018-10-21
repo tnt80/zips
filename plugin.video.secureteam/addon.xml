@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.secureteam" name="SecureTeam" version="1.1.3" provider-name="TGR">
+<addon id="plugin.video.secureteam" name="SecureTeam" version="1.1.4" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
@@ -8,8 +8,13 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Secureteam youtube channel</summary>
-		<description>Aliens, UFO, and other strange stuff</description>
+		<description>
+Aliens, UFO, and other strange stuff
+[COLOR blue]repo url for this addon[/COLOR]
+https://tnt80.github.io/repo
+	</description>
 		<news>
+Aliens, UFO, and other strange stuff
 [COLOR blue]repo url for this addon[/COLOR]
 https://tnt80.github.io/repo
     </news>
