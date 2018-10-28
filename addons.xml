@@ -137,7 +137,7 @@ https://tnt80.github.io/repo
 	</extension>
 </addon>
 
-<addon id="plugin.video.secureteam" name="SecureTeam" version="1.1.4" provider-name="TGR">
+<addon id="plugin.video.secureteam" name="SecureTeam" version="1.1.5" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
