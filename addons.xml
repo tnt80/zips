@@ -50,7 +50,7 @@ https://tnt80.github.io/repo
 	</extension>
 </addon>
 
-<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.4.3" provider-name="TGR">
+<addon id="plugin.video.kidstubenl" name="KidsTube NL" version="1.4.4" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
