@@ -74,7 +74,7 @@ https://tnt80.github.io/repo
 	</extension>
 </addon>
 
-<addon id="plugin.video.trakttrailers" name="Trakt Trailers" version="1.0.1" provider-name="TGR">
+<addon id="plugin.video.trakttrailers" name="Trakt Trailers" version="1.0.2" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
