@@ -26,7 +26,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.kindertubenl" name="KinderTube NL" version="1.2.2" provider-name="TGR">
+<addon id="plugin.video.kindertubenl" name="KinderTube NL" version="1.2.3" provider-name="TGR">
 	<requires>
 		<import addon="script.module.audrey" />
 	</requires>
